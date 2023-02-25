@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/melis/OneDrive/Escritorio/ejercicio1/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/melis/OneDrive/Escritorio/ejercicio1/app/src/main/res/layout/activity_main.xml" value="0.19" />
-        <entry key="..\:/Users/melis/OneDrive/Escritorio/ejercicio1/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/melis/OneDrive/Escritorio/ejercicio1/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/melis/OneDrive/Escritorio/ejercicio1/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>
